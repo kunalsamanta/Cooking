@@ -1,0 +1,30 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+span {
+  padding: 1rem;
+  margin: 1rem;
+  font-size: larger;
+  font-weight: 600;
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
+span:hover {
+  color: brown;
+  font-weight: 700;
+}
+
+.app-items {
+  padding: 1rem;
+  margin: 0.5rem;
+}
+
+.app-item {
+  font-weight: bold;
+  border: 1px solid lightsalmon;
+  margin: 1rem;
+  padding: 0.5rem;
+}
